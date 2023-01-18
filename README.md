@@ -16,9 +16,6 @@ Skript Fishing: https://github.com/Verwarmingman/SkriptFishing/wiki
 
 Skript Tutorials: https://github.com/Verwarmingman/SkriptTutorial/wiki
 
-Skript Sellwands: https://github.com/Verwarmingman/SkriptSellwand/wiki
-
-Skript Multipliers: https://github.com/Verwarmingman/SkriptMultiplier/wiki
 
 
 
@@ -26,13 +23,10 @@ Purchase Shop: https://tinyurl.com/242xjh5c
 
 Purchase Robots: https://tinyurl.com/3fw3uynm
 
-Purchase Fishing: ADD LINK
+Purchase Fishing: https://tinyurl.com/ym6zwtfr
 
 Purchase Tutorials: https://tinyurl.com/2fzjj658
 
-Purchase Sellwands: https://tinyurl.com/yvyxc36a 
-
-Purchase Multipliers: https://tinyurl.com/2p93knku
 
 # Examples and Documentation
 Documentation is available on the following wiki: https://github.com/Verwarmingman/SkriptFishing/wiki
