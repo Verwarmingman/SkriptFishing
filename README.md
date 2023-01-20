@@ -14,6 +14,10 @@ Skript Robots: https://github.com/Verwarmingman/SkriptRobot/wiki
 
 Skript Fishing: https://github.com/Verwarmingman/SkriptFishing/wiki
 
+Skript Farming: https://github.com/Verwarmingman/SkriptFarming/wiki
+
+Skript Mining: https://github.com/Verwarmingman/SkriptMining/wiki
+
 Skript Tutorials: https://github.com/Verwarmingman/SkriptTutorial/wiki
 
 
@@ -24,6 +28,10 @@ Purchase Shop: https://tinyurl.com/242xjh5c
 Purchase Robots: https://tinyurl.com/3fw3uynm
 
 Purchase Fishing: https://tinyurl.com/ym6zwtfr
+
+Purchase Farming: https://tinyurl.com/jtjjxdz8
+
+Purchase Mining: https://tinyurl.com/ypuhsucb
 
 Purchase Tutorials: https://tinyurl.com/2fzjj658
 
